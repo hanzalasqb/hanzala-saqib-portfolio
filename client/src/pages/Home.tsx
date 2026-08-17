@@ -21,18 +21,19 @@ import {
   X,
 } from "lucide-react";
 
-const headshot = "/manus-storage/hanzala-headshot_49da4d3e.png";
-const logo = "/manus-storage/hs-monogram-refined_d09432c6.png";
-const cvUrl = "/manus-storage/Hanzala-Saqib-AI-FullStack-Resume_0738766f.pdf";
-const orbitalAccent = "/manus-storage/orbital-3d-accent_ef01676e.png";
-const hsWearVisual = "/manus-storage/hs-wear-visual_100f29fd.png";
-const bySalmaVisual = "/manus-storage/by-salma-visual_0dc321ab.png";
-const aiSaasVisual = "/manus-storage/ai-saas-chatbot-visual_823d6f12.png";
-const hsWearMobileVisual = "/manus-storage/hs-wear-mobile-visual_1d6d2de9.png";
-const bySalmaMobileVisual = "/manus-storage/by-salma-mobile-visual_d03af270.png";
-const heroTexture = "/manus-storage/signal-noir-hero_c51bf882.png";
-const hsWorkspaceVisual = "/manus-storage/hs-workspace-visual_c5a9914e.png";
-const zyvenoxVisual = "/manus-storage/zyvenox-lab-visual_87e242f2.png";
+const headshot = "/assets/hanzala-headshot.png";
+const logo = "/assets/hs-monogram-refined.png";
+const cvUrl = "/assets/Hanzala-Saqib-AI-FullStack-Resume.pdf";
+const orbitalAccent = "/assets/orbital-3d-accent.png";
+const hsWearVisual = "/assets/hs-wear-visual.png";
+const bySalmaVisual = "/assets/by-salma-visual.png";
+const aiSaasVisual = "/assets/ai-saas-chatbot-visual.png";
+const hsWearMobileVisual = "/assets/hs-wear-mobile-visual.png";
+const bySalmaMobileVisual = "/assets/by-salma-mobile-visual.png";
+const heroTexture = "/assets/signal-noir-hero.png";
+const hsWorkspaceVisual = "/assets/hs-workspace-visual.png";
+const zyvenoxVisual = "/assets/zyvenox-lab-visual.png";
+
 
 
 const projects = [
