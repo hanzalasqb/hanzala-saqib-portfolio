@@ -11,6 +11,7 @@ const plugins = [
 ];
 
 export default defineConfig({
+  base: "/hanzala-saqib-portfolio/",
   plugins,
   resolve: {
     alias: {
